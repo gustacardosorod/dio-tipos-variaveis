@@ -6,9 +6,9 @@ public class Calculadora {
      * <b>Note:</b> Leia atentamente a documentação desta classes
      * para desfrutar dos recursos oferecidos pelo autor
      *
-     * @author Gleyson Sampaio
+     * @author Gustavo
      * @version 1.0
-     * @since 01/01/2022
+     * @since 01/06/2024
      */
     /**
      * Este método é utilizado para somar dois números inteiros
